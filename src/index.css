@@ -58,7 +58,8 @@ article.journal-entry .marker{
 }
 
 .journal-entry > div > a{
-  color: black;
+  color: rgb(84, 83, 83);
+  font-weight: 500;
   font-size: 0.7rem;
 }
 
